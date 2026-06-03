@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Hi 👋, I'm Akriti
+🚀 Full Stack Developer (Learning & Building)
+📫 akritibh05@gmail.com 
+🔭 Currently working on CareerLens (Full Stack Project)  
+🎨 Passionate about UI/UX design and clean interfaces  
+😄 You’re here… so you might as well explore my projects
 <!--
 **AkritiBhattarai05/AkritiBhattarai05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
