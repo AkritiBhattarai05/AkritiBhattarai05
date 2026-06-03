@@ -1,8 +1,10 @@
-# Hi 👋, I'm Akriti
-🚀 Full Stack Developer (Learning & Building)
-📫 To reach me : akritibh05@gmail.com 
-🔭 Currently working on CareerLens (Full Stack Project)  
-😄 You’re here… so you might as well explore my projects
+# Hi 👋, I'm Munu
+
+- 🚀 Full Stack Developer (Learning & Building)
+- 🔭 Working on CareerLens (Full Stack Project)
+- 🎨 UI/UX enthusiast focused on clean design
+- 📫 Reach me: [akritibh05@gmail.com](mailto:akritibh05@gmail.com)
+- 😄 You’re here… so you might as well explore my projects
 <!--
 **AkritiBhattarai05/AkritiBhattarai05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
