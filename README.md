@@ -1,4 +1,4 @@
-# Hi 👋, I'm Munu
+# Hi 👋, I'm Akriti
 
 - 🚀 Full Stack Developer (Learning & Building)
 - 🔭 Working on CareerLens (Full Stack Project)
